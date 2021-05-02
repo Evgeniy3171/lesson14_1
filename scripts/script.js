@@ -1,11 +1,11 @@
 'use strict';
 alert('hhh');
 function domElement (){
-  this.selector, 
-  this.height, 
-  this.width, 
-  this.bg, 
-  this.fontSize,
+  this.selector = selector; 
+  this.height = height; 
+  this.width = width; 
+  this.bg = bg; 
+  this.fontSize = fontSize;
   createElement: function(){
     
   }
